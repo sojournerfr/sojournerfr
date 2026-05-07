@@ -12,4 +12,5 @@ Welcome to my universe 🪐<br>
 🧠 Curious about science, algorithms, and how things work<br>
 🚀 Always building, learning, and exploring<br>
 <br>
-My nickname sojournerfr is a small nod to the Mars rover Sojourner from the Pathfinder mission — because exploration isn’t only about space, it’s also about ideas.<br>
+My nickname sojournerfr is a small nod to the Mars rover Sojourner from the Pathfinder mission —<br>
+because exploration isn’t only about space, it’s also about ideas.<br>
