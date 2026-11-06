@@ -3,7 +3,7 @@ aka @sojournerfr<br>
 <br>
 Welcome to my universe 🪐<br>
 <br>
-👋🏻 Hi, I'm David, a second-year student at Epitech Lille<br>
+👋🏻 Hi, I'm David, a third-year student at Epitech Lille<br>
 💻 Passionate about software development and algorithmic problem solving<br>
 📬 david.caron@epitech.eu<br>
 🌐 [sojourner.fr](https://sojourner.fr/)<br>
